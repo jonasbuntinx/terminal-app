@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+   <channel>
+      <title>Lorem ipsum feed for an interval of 1 minutes with 10 item(s)></title>
+      <description>This is a constantly updating lorem ipsum feed></description>
+      <link>http://example.com/</link>
+      <generator>RSS for Node</generator>
+      <lastBuildDate>Mon, 12 Apr 2021 01:05:28 GMT</lastBuildDate>
+      <pubDate>Mon, 12 Apr 2021 01:05:00 GMT</pubDate>
+      <copyright>Michael Bertolacci, licensed under a Creative Commons Attribution 3.0 Unported License.></copyright>
+      <ttl>1</ttl>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:05:00Z></title>
+         <description>Elit veniam Lorem quis est dolore aute.></description>
+         <link>http://example.com/test/1618189500</link>
+         <guid isPermaLink="true">http://example.com/test/1618189500</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:05:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:04:00Z></title>
+         <description>Do laborum magna cillum aliqua ad excepteur reprehenderit dolore adipisicing deserunt aliquip.></description>
+         <link>http://example.com/test/1618189440</link>
+         <guid isPermaLink="true">http://example.com/test/1618189440</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:04:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:03:00Z></title>
+         <description>Ullamco commodo consectetur adipisicing in laboris est.></description>
+         <link>http://example.com/test/1618189380</link>
+         <guid isPermaLink="true">http://example.com/test/1618189380</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:03:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:02:00Z></title>
+         <description>Reprehenderit enim et reprehenderit officia consectetur voluptate amet qui est.></description>
+         <link>http://example.com/test/1618189320</link>
+         <guid isPermaLink="true">http://example.com/test/1618189320</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:02:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:01:00Z></title>
+         <description>Proident sit voluptate ea aute adipisicing reprehenderit enim deserunt veniam.></description>
+         <link>http://example.com/test/1618189260</link>
+         <guid isPermaLink="true">http://example.com/test/1618189260</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:01:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T01:00:00Z></title>
+         <description>Voluptate sunt est tempor anim non adipisicing ipsum aliqua minim in.></description>
+         <link>http://example.com/test/1618189200</link>
+         <guid isPermaLink="true">http://example.com/test/1618189200</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 01:00:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T00:59:00Z></title>
+         <description>Cillum ea officia qui voluptate anim minim velit laboris labore veniam nulla enim.></description>
+         <link>http://example.com/test/1618189140</link>
+         <guid isPermaLink="true">http://example.com/test/1618189140</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 00:59:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T00:58:00Z></title>
+         <description>Tempor laborum irure minim aute et laborum nisi velit dolor mollit.></description>
+         <link>http://example.com/test/1618189080</link>
+         <guid isPermaLink="true">http://example.com/test/1618189080</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 00:58:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T00:57:00Z></title>
+         <description>Anim quis mollit qui esse duis non quis duis.></description>
+         <link>http://example.com/test/1618189020</link>
+         <guid isPermaLink="true">http://example.com/test/1618189020</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 00:57:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Lorem ipsum 2021-04-12T00:56:00Z></title>
+         <description>Amet amet sit ad minim commodo cupidatat officia.></description>
+         <link>http://example.com/test/1618188960</link>
+         <guid isPermaLink="true">http://example.com/test/1618188960</guid>
+         <dc:creator>John Smith></dc:creator>
+         <pubDate>Mon, 12 Apr 2021 00:56:00 GMT</pubDate>
+      </item>
+   </channel>
+</rss>

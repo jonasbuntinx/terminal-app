@@ -1,0 +1,13 @@
+{
+  "name": "terminal-app",
+  "version": "0.1.0",
+  "author": "Jonas Buntinx",
+  "description": "a terminal app",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "rss-parser": "^3.12.0",
+    "xml2js": "^0.4.23",
+    "yargs": "^16.2.0"
+  }
+}
