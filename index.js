@@ -38,12 +38,13 @@ const convert = (feed) => {
     });
   }
 
+  const builder = new xml2js.Builder();
+  const xml = builder.buildObject(feed);
+
   if(options.output) {
-    const builder = new xml2js.Builder();
-    const xml = builder.buildObject(feed);
     fs.writeFileSync(options.output, xml);
   } else {
-    console.log(feed);
+    console.log(xml);
   }
 }
 
